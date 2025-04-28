@@ -39,4 +39,6 @@ public partial class Journal
     }
 
     public override bool Equals(object? obj) => obj is Journal other && this == other;
+
+    public override int GetHashCode() => EqualityComparer<Dictionary<int, JournalEntity>>.Default.GetHashCode(_journal);
 }

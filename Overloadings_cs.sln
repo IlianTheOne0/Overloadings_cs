@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary", "Domain\Clas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication", "Presentation\ConsoleApplication.csproj", "{DF13BF0B-E657-4BE2-A6DF-48F47788C534}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "..\UnitTests\UnitTest.csproj", "{E937FE7C-605A-45C2-8F10-D1A45D10B3A7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests\UnitTests.csproj", "{E37B9D7F-0A4A-4ED8-80D7-92DEAA7A6BAD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{DF13BF0B-E657-4BE2-A6DF-48F47788C534}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF13BF0B-E657-4BE2-A6DF-48F47788C534}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF13BF0B-E657-4BE2-A6DF-48F47788C534}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E937FE7C-605A-45C2-8F10-D1A45D10B3A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E937FE7C-605A-45C2-8F10-D1A45D10B3A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E937FE7C-605A-45C2-8F10-D1A45D10B3A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E937FE7C-605A-45C2-8F10-D1A45D10B3A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E37B9D7F-0A4A-4ED8-80D7-92DEAA7A6BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37B9D7F-0A4A-4ED8-80D7-92DEAA7A6BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37B9D7F-0A4A-4ED8-80D7-92DEAA7A6BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37B9D7F-0A4A-4ED8-80D7-92DEAA7A6BAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
